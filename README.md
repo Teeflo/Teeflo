@@ -1,194 +1,139 @@
 <div align="center">
+  <img src="https://teeflo.me/og-image.webp" width="100%" alt="Esteban Deloge Banner" />
+  
+  <br/>
 
-# 👋 Salut, je suis Esteban Deloge (@Teeflo)
+  # Esteban Deloge (@Teeflo)
 
-### 🚀 Automation Engineer | PHP/JS Plugin Creator | n8n Workflows Expert
+  ### ⚡ Automation Engineer | Lead Developer | n8n Expert
+  
+  <p align="center">
+    <a href="https://github.com/Teeflo">
+      <img src="https://img.shields.io/github/followers/Teeflo?label=Followers&style=flat-square&color=000&logo=github" />
+    </a>
+    <a href="https://github.com/Teeflo">
+      <img src="https://img.shields.io/github/stars/Teeflo?label=Stars&style=flat-square&color=000&logo=github" />
+    </a>
+    <a href="https://teeflo.me">
+      <img src="https://img.shields.io/badge/Portfolio-teeflo.me-000?style=flat-square&logo=google-chrome&logoColor=white" />
+    </a>
+  </p>
 
-*Turning repetitive tasks into smart solutions | Code that works, tools that last ⚡*
-
-[![GitHub followers](https://img.shields.io/github/followers/Teeflo?style=social)](https://github.com/Teeflo)
-[![GitHub stars](https://img.shields.io/github/stars/Teeflo?style=social)](https://github.com/Teeflo)
-
+  *"Optimizing workflows, building scalable solutions, and bridging the gap between automation and user experience."*
 </div>
 
 ---
 
-## 🧑‍💻 À propos de moi
+## 🧑‍💻 Professional Summary
 
-🎯 Passionné par l'automatisation et le développement full-stack, je crée des solutions innovantes pour simplifier les workflows et optimiser les processus.
-
-- 🔭 **Actuellement :** Développement et maintenance continue de [TRKF Esport](https://trkf-esport.fr) - Site officiel d'équipe professionnelle Fortnite
-- 🌱 **J'apprends :** Advanced AI Integration, iOS Development, Cloud Architecture
-- 💼 **Travail :** Retail @ Boulangerie du Marché | Freelance Developer
-- 📍 **Localisation :** Haute-Savoie, France 🇫🇷
-- ⚡ **Fun fact :** Je transforme des tâches répétitives en workflows intelligents avec n8n !
-
----
-
-## 🛠️ Stack Technologique
-
-### Langages & Frameworks
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Outils & Plateformes
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### Cloud & DevOps
-
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+<table border="0">
+  <tr>
+    <td width="65%">
+      As a dedicated **Automation Engineer** and **Full-Stack Developer**, I specialize in transforming complex business requirements into streamlined, automated workflows. With a deep expertise in **n8n**, **Node.js**, and **Cloud Infrastructure**, I build robust tools that scale.
+      <br/><br/>
+      - 🔭 **Current Focus:** Leading development for <a href="https://trkf-esport.fr">TRKF Esport</a>.
+      - 🌱 **Deep Learning:** Advanced AI Integration (RAG) and Cloud-Native Architectures.
+      - 💼 **Professional Services:** Available for freelance automation auditing and workflow optimization.
+      - 📍 **Based In:** Haute-Savoie, France 🇫🇷
+    </td>
+    <td width="35%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Teeflo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Ecosystem
+
+### 💻 Core Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,php,py,html,css,tailwind" />
+  </a>
+</p>
+
+### 🔧 Tools & Infrastructure
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,pnpm,vscode,cloudflare,postman" />
+  </a>
+</p>
+
+### ☁️ Specialized Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/-n8n_Workflow-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/-Rest_API-005571?style=flat-square&logo=airtable&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/-Jeedom_Plugins-00A9E0?style=flat-square&logo=home-assistant&logoColor=white" height="32" />
+</p>
+
+---
+
+## 🚀 Key Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Teeflo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Teeflo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
-
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Teeflo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
+| Showcase Project | Description | Core Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[TRKF Esport](https://trkf-esport.fr)** | High-performance React/Next.js ecosystem for pro gaming. | `Next.js`, `TS` | 🟢 Production |
+| **[PolyChat-AI](https://github.com/Teeflo/PolyChat-AI)** | Advanced multi-LLM orchestration interface. | `React`, `AI APIs` | 🟡 Development |
+| **[plugin-n8n](https://github.com/Teeflo/plugin-n8n)** | Enterprise-grade Jeedom to n8n bridge. | `PHP`, `JSON` | 🟢 Stable |
+| **[LinkedIn Cleaner](https://github.com/Teeflo/linkedIn-cleaner)** | Automated connection management tool. | `JS`, `v3 API` | 🟢 Stable |
 
 </div>
 
 ---
 
-## 🚀 Projets Phares
+## 📊 Analytics & Performance
 
-### 🎮 [TRKF Esport - Site Officiel](https://trkf-esport.fr)
-> Site officiel de TRKF Esport, équipe professionnelle française sur Fortnite. Boutique, palmarès et actualités.
-- **Tech Stack:** TypeScript, Next.js
-- **Status:** 🟢 En ligne et maintenance continue
-- **Lien:** [trkf-esport.fr](https://trkf-esport.fr)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Teeflo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=9CA3AF" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Teeflo&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="48%" />
+</p>
 
-### 🤖 [PolyChat-AI](https://github.com/Teeflo/PolyChat-AI)
-> Interface de chat multi-modèles IA (Gemini, Mistral, Claude) avec fonctionnalités avancées
-- **Tech Stack:** TypeScript, React
-- **Licence:** MIT
-- **Status:** 🟡 En développement actif
-- **Features:** Multi-model support, Advanced UI, Real-time responses
-
-### 🔌 Plugins Jeedom
-
-#### [plugin-n8n](https://github.com/Teeflo/plugin-n8n)
-> Plugin Jeedom pour connecter et contrôler N8N workflows depuis Jeedom
-- **Licence:** GPL-2.0
-
-#### [plugin-hp-printer](https://github.com/Teeflo/plugin-hp-printer)
-> Plugin Jeedom pour surveiller et gérer les imprimantes HP via EWS
-- **Licence:** GPL-2.0
-
-#### [plugin-nasaapi](https://github.com/Teeflo/plugin-nasaapi)
-> Plugin Jeedom pour afficher l'image APOD (Astronomy Picture of the Day) de la NASA
-- **Licence:** GPL-3.0
-
-#### [plugin-gamegiveaways](https://github.com/Teeflo/plugin-gamegiveaways)
-> Plugin Jeedom pour récupérer et afficher les jeux gratuits disponibles
-- **Tech Stack:** PHP
-
-### 🌐 Extensions Chrome
-
-#### [gmail-badge-notifier](https://github.com/Teeflo/gmail-badge-notifier)
-> Extension Chrome affichant un badge avec le nombre d'emails non lus Gmail
-- **Tech Stack:** JavaScript
-
-#### [linkedIn-cleaner](https://github.com/Teeflo/linkedIn-cleaner)
-> Extension Chrome pour gérer et nettoyer automatiquement vos connexions LinkedIn
-- **Tech Stack:** JavaScript
-- **Licence:** MIT
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teeflo&theme=github-dark-flat&hide_border=true&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF" width="100%" />
+</p>
 
 ---
 
-## 🎯 Expertise
+## 🎯 Technical Expertise
 
 ```javascript
 const teeflo = {
+    domain: "Automation & Backend Engineering",
     expertise: {
-        automation: ["n8n", "Zapier", "Custom Workflows"],
-        backend: ["Node.js", "PHP", "Python"],
-        frontend: ["React", "TypeScript", "Next.js"],
-        ai: ["Gemini", "Claude", "ChatGPT", "DeepSeek"],
-        devops: ["Docker", "Git", "CI/CD"],
-        cloud: ["Google Cloud", "Oracle Cloud", "Cloudflare"]
+        workflow: ["n8n", "Webhooks", "ETL Pipelines", "BPMN"],
+        backend: ["Distributed Systems", "REST/GraphQL", "PostgreSQL"],
+        frontend: ["Component Architectures", "Modern UI/UX", "Vercel"],
+        ai: ["Semantic Search", "LLM Fine-tuning", "Agentic Frameworks"]
     },
-    focus: "Building tools that automate the boring stuff",
-    philosophy: "Code that works, tools that last ⚡"
+    philosophy: "Engineering reliability through simplified automation."
 };
 ```
 
 ---
 
-## 📈 Contribution Activity
+## 📫 Connect with me
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Teeflo&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph" />
-
+  <a href="https://github.com/Teeflo">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://teeflo.me">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:contact@teeflo.me">
+    <img src="https://img.shields.io/badge/-Professional_Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
----
-
-## 🌟 Intérêts & Hobbies
-
-- 🎮 **Gaming:** Fortnite, Gran Turismo 7, Cities Skylines
-- 🏎️ **Formule 1:** Passionné de F1 et de technologie automobile
-- 🤖 **Tech:** IA, Automation, Drones (DJI Mini series)
-- 🛠️ **Making:** Impression 3D, Robotique
-- 🏔️ **Outdoor:** Randonnée en Haute-Savoie
-
----
-
-## 📫 Me Contacter
+<br/>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teeflo)
-[![Website](https://img.shields.io/badge/-Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://teeflo.me)
-
+  <img src="https://komarev.com/ghpvc/?username=Teeflo&color=333&style=flat-square&label=PROFILE+VIEWS" />
+  <br/>
+  <i>Engineered for performance by Esteban Deloge</i>
 </div>
 
----
-
-## 💡 Citation du Jour
-
-> "The best way to predict the future is to invent it." - Alan Kay
-
----
-
-<div align="center">
-
-### 🎯 Objectifs 2026
-
-- [ ] Lancer TRKF Esport officiellement
-- [ ] Publier 5+ plugins Jeedom open-source
-- [ ] Contribuer à des projets n8n
-- [ ] Atteindre 50+ stars sur GitHub
-- [ ] Développer une app iOS
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Si mes projets vous plaisent, n'hésitez pas à les star !**
-
-*Made with ❤️ and ⚡ by Teeflo*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Teeflo&color=F85D7F&style=flat-square&label=Visiteurs)
-
-</div>
