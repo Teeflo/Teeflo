@@ -17,7 +17,7 @@
 
 🎯 Passionné par l'automatisation et le développement full-stack, je crée des solutions innovantes pour simplifier les workflows et optimiser les processus.
 
-- 🔭 **Actuellement :** Développement de [TRKF Esport](https://github.com/Teeflo/trkf-site) - Site officiel d'équipe professionnelle Fortnite
+- 🔭 **Actuellement :** Développement et maintenance continue de [TRKF Esport](https://trkf-esport.fr) - Site officiel d'équipe professionnelle Fortnite
 - 🌱 **J'apprends :** Advanced AI Integration, iOS Development, Cloud Architecture
 - 💼 **Travail :** Retail @ Boulangerie du Marché | Freelance Developer
 - 📍 **Localisation :** Haute-Savoie, France 🇫🇷
@@ -57,11 +57,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Teeflo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+<img src="https://github-readme-stats.vercel.app/api?username=Teeflo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Teeflo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teeflo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Teeflo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Teeflo&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
 
 </div>
 
@@ -69,21 +69,18 @@
 
 ## 🚀 Projets Phares
 
-### 🎮 [TRKF Esport - Site Officiel](https://github.com/Teeflo/trkf-site)
+### 🎮 [TRKF Esport - Site Officiel](https://trkf-esport.fr)
 > Site officiel de TRKF Esport, équipe professionnelle française sur Fortnite. Boutique, palmarès et actualités.
 - **Tech Stack:** TypeScript, Next.js
-- **Status:** 🟢 En développement actif
+- **Status:** 🟢 En ligne et maintenance continue
+- **Lien:** [trkf-esport.fr](https://trkf-esport.fr)
 
 ### 🤖 [PolyChat-AI](https://github.com/Teeflo/PolyChat-AI)
 > Interface de chat multi-modèles IA (Gemini, Mistral, Claude) avec fonctionnalités avancées
 - **Tech Stack:** TypeScript, React
 - **Licence:** MIT
+- **Status:** 🟡 En développement actif
 - **Features:** Multi-model support, Advanced UI, Real-time responses
-
-### 🔄 [n8n Workflow Collection](https://github.com/Teeflo/n8n_workflow)
-> Collection de workflows N8N pour l'automatisation (tracking prix, alertes, emails, etc.)
-- **Tech Stack:** n8n, Node.js
-- **Use Cases:** Price tracking, Email automation, Notifications
 
 ### 🔌 Plugins Jeedom
 
@@ -98,6 +95,10 @@
 #### [plugin-nasaapi](https://github.com/Teeflo/plugin-nasaapi)
 > Plugin Jeedom pour afficher l'image APOD (Astronomy Picture of the Day) de la NASA
 - **Licence:** GPL-3.0
+
+#### [plugin-gamegiveaways](https://github.com/Teeflo/plugin-gamegiveaways)
+> Plugin Jeedom pour récupérer et afficher les jeux gratuits disponibles
+- **Tech Stack:** PHP
 
 ### 🌐 Extensions Chrome
 
@@ -135,7 +136,7 @@ const teeflo = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Teeflo&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Teeflo&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph" />
 
 </div>
 
