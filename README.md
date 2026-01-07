@@ -24,19 +24,25 @@
 
 ---
 
-## 🧑‍💻 Professional Summary
+## 🧑‍💻 Professional Background
+
+<p align="left">
+  <strong>Strategic Automation Engineer</strong> with a proven track record of optimizing complex business processes. I leverage modern technologies like <strong>n8n</strong> and <strong>Node.js</strong> to build scalable, high-impact solutions that bridge the gap between technical efficiency and user-centric design.
+</p>
 
 <table border="0">
   <tr>
-    <td width="65%">
-      As a dedicated **Automation Engineer** and **Full-Stack Developer**, I specialize in transforming complex business requirements into streamlined, automated workflows. With a deep expertise in **n8n**, **Node.js**, and **Cloud Infrastructure**, I build robust tools that scale.
-      <br/><br/>
-      - 🔭 **Current Focus:** Leading development for <a href="https://trkf-esport.fr">TRKF Esport</a>.
-      - 🌱 **Deep Learning:** Advanced AI Integration (RAG) and Cloud-Native Architectures.
-      - 💼 **Professional Services:** Available for freelance automation auditing and workflow optimization.
-      - 📍 **Based In:** Haute-Savoie, France 🇫🇷
+    <td width="65%" valign="top">
+      <h4>🚀 Current Trajectory</h4>
+      <ul>
+        <li><strong>Lead Developer</strong> at <a href="https://trkf-esport.fr">TRKF Esport</a>, architecting high-performance gaming ecosystems.</li>
+        <li><strong>Deepening Expertise</strong> in <strong>RAG (Retrieval-Augmented Generation)</strong> and Cloud-Native architectures.</li>
+        <li><strong>Freelance Consultant</strong> specializing in workflow audits and custom automation engineering.</li>
+      </ul>
+      <h4>🌍 Based In</h4>
+      <p>Haute-Savoie, France 🏔️ (Available for remote global opportunities)</p>
     </td>
-    <td width="35%" align="center">
+    <td width="35%" align="center" valign="top">
       <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Teeflo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" width="100%" />
     </td>
   </tr>
@@ -132,7 +138,7 @@ const teeflo = {
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Teeflo&color=333&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Teeflo&color=333333&style=flat-square&label=PROFILE+VIEWS" />
   <br/>
   <i>Engineered for performance by Esteban Deloge</i>
 </div>
