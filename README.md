@@ -121,6 +121,39 @@ const teeflo = {
 
 ---
 
+## 🎯 Roadmap 2026
+
+<div align="center">
+
+| Status | Objective | Priority |
+| :---: | :--- | :---: |
+| ⬜ | **Créer une app mobile** — Application native pour la gestion d'automatisations | 🔴 High |
+| ⬜ | **Créer une application Windows** — Client desktop pour n8n et outils internes | 🟠 Medium |
+| ⬜ | **Obtenir 50 GitHub Stars** ⭐ — Objectif communautaire | 🟡 Ongoing |
+
+</div>
+
+<details>
+<summary><b>📋 Détails des objectifs</b></summary>
+<br/>
+
+- [ ] 📱 **App Mobile**
+  - Framework: React Native / Kotlin
+  - Features: Dashboard, workflow management, notifications push
+  
+- [ ] 🖥️ **Application Windows**
+  - Framework: Electron / .NET MAUI
+  - Features: Gestion locale, synchronisation cloud, interface moderne
+  
+- [ ] ⭐ **50 Stars GitHub**
+  - Publier des projets open-source de qualité
+  - Améliorer la documentation
+  - Participer à la communauté
+
+</details>
+
+---
+
 ## 📫 Connect with me
 
 <div align="center">
